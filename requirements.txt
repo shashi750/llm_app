@@ -1,7 +1,7 @@
 streamlit
-langchain
-transformers
+langchain==0.1.14
+transformers==4.40.1
 torch
 accelerate
-huggingface_hub
 sentencepiece
+huggingface_hub
