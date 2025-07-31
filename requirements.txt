@@ -5,3 +5,9 @@ torch
 sentencepiece
 accelerate
 huggingface_hub
+streamlit
+langchain
+openai
+transformers
+huggingface_hub
+python-dotenv
